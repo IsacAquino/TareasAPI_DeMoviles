@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TareasAPI", "TareasAPI\TareasAPI.csproj", "{B8A523B5-B65F-4FA5-8BD4-BFFFC014237C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8A523B5-B65F-4FA5-8BD4-BFFFC014237C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8A523B5-B65F-4FA5-8BD4-BFFFC014237C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8A523B5-B65F-4FA5-8BD4-BFFFC014237C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8A523B5-B65F-4FA5-8BD4-BFFFC014237C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76FA4624-3B90-4941-8B4E-29B993C0BD4D}
+	EndGlobalSection
+EndGlobal
