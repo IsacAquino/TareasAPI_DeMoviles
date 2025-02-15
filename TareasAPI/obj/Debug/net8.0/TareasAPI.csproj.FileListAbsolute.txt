@@ -166,3 +166,4 @@ C:\Users\isaac\source\repos\TareasAPI\TareasAPI\obj\Debug\net8.0\refint\TareasAP
 C:\Users\isaac\source\repos\TareasAPI\TareasAPI\obj\Debug\net8.0\TareasAPI.pdb
 C:\Users\isaac\source\repos\TareasAPI\TareasAPI\obj\Debug\net8.0\TareasAPI.genruntimeconfig.cache
 C:\Users\isaac\source\repos\TareasAPI\TareasAPI\obj\Debug\net8.0\ref\TareasAPI.dll
+C:\Users\isaac\source\repos\TareasAPI\TareasAPI\obj\Debug\net8.0\TareasAPI.sourcelink.json
