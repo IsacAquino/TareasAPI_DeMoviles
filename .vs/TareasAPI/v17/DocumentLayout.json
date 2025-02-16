@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\isaac\\source\\repos\\TareasAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B8A523B5-B65F-4FA5-8BD4-BFFFC014237C}|TareasAPI\\TareasAPI.csproj|c:\\users\\isaac\\source\\repos\\tareasapi\\tareasapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8A523B5-B65F-4FA5-8BD4-BFFFC014237C}|TareasAPI\\TareasAPI.csproj|solutionrelative:tareasapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B8A523B5-B65F-4FA5-8BD4-BFFFC014237C}|TareasAPI\\TareasAPI.csproj|c:\\users\\isaac\\source\\repos\\tareasapi\\tareasapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8A523B5-B65F-4FA5-8BD4-BFFFC014237C}|TareasAPI\\TareasAPI.csproj|solutionrelative:tareasapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B8A523B5-B65F-4FA5-8BD4-BFFFC014237C}|TareasAPI\\TareasAPI.csproj|c:\\users\\isaac\\source\\repos\\tareasapi\\tareasapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{B8A523B5-B65F-4FA5-8BD4-BFFFC014237C}|TareasAPI\\TareasAPI.csproj|solutionrelative:tareasapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8A523B5-B65F-4FA5-8BD4-BFFFC014237C}|TareasAPI\\TareasAPI.csproj|c:\\users\\isaac\\source\\repos\\tareasapi\\tareasapi\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8A523B5-B65F-4FA5-8BD4-BFFFC014237C}|TareasAPI\\TareasAPI.csproj|solutionrelative:tareasapi\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B8A523B5-B65F-4FA5-8BD4-BFFFC014237C}|TareasAPI\\TareasAPI.csproj|c:\\users\\isaac\\source\\repos\\tareasapi\\tareasapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8A523B5-B65F-4FA5-8BD4-BFFFC014237C}|TareasAPI\\TareasAPI.csproj|solutionrelative:tareasapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8A523B5-B65F-4FA5-8BD4-BFFFC014237C}|TareasAPI\\TareasAPI.csproj|c:\\users\\isaac\\source\\repos\\tareasapi\\tareasapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8A523B5-B65F-4FA5-8BD4-BFFFC014237C}|TareasAPI\\TareasAPI.csproj|solutionrelative:tareasapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B8A523B5-B65F-4FA5-8BD4-BFFFC014237C}|TareasAPI\\TareasAPI.csproj|c:\\users\\isaac\\source\\repos\\tareasapi\\tareasapi\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8A523B5-B65F-4FA5-8BD4-BFFFC014237C}|TareasAPI\\TareasAPI.csproj|solutionrelative:tareasapi\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,6 +28,10 @@
           "DockedWidth": 274,
           "SelectedChildIndex": -1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{7cc9e714-2774-4fc6-8631-a07eee703286}"
@@ -55,12 +59,8 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "TasksController.cs",
               "DocumentMoniker": "C:\\Users\\isaac\\source\\repos\\TareasAPI\\TareasAPI\\Controllers\\TasksController.cs",
               "RelativeDocumentMoniker": "TareasAPI\\Controllers\\TasksController.cs",
@@ -72,20 +72,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\isaac\\source\\repos\\TareasAPI\\TareasAPI\\Program.cs",
               "RelativeDocumentMoniker": "TareasAPI\\Program.cs",
               "ToolTip": "C:\\Users\\isaac\\source\\repos\\TareasAPI\\TareasAPI\\Program.cs",
               "RelativeToolTip": "TareasAPI\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T13:33:22.44Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T13:33:22.44Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\isaac\\source\\repos\\TareasAPI\\TareasAPI\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "TareasAPI\\Data\\ApplicationDbContext.cs",
@@ -93,7 +92,8 @@
               "RelativeToolTip": "TareasAPI\\Data\\ApplicationDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T13:32:54.48Z"
+              "WhenOpened": "2025-02-11T13:32:54.48Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -106,6 +106,10 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-02-11T13:28:52.023Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             },
             {
               "$type": "Bookmark",

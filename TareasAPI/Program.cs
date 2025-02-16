@@ -3,10 +3,8 @@ using TareasAPI.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Configurar la base de datos usando la variable de entorno en Railway
-var connectionString = builder.Configuration.GetConnectionString("DefaultConnection")
-    ?? Environment.GetEnvironmentVariable("CONNECTION_STRING");
-
+// Obtener la cadena de conexión desde variables de entorno
+var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(connectionString));
 
