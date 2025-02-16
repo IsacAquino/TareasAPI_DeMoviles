@@ -1,0 +1,3 @@
+﻿[build]
+engine = "dotnet"
+version = "8.0"

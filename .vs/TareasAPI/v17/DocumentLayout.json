@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\isaac\\source\\repos\\TareasAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B8A523B5-B65F-4FA5-8BD4-BFFFC014237C}|TareasAPI\\TareasAPI.csproj|c:\\users\\isaac\\source\\repos\\tareasapi\\tareasapi\\railway.toml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B8A523B5-B65F-4FA5-8BD4-BFFFC014237C}|TareasAPI\\TareasAPI.csproj|solutionrelative:tareasapi\\railway.toml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B8A523B5-B65F-4FA5-8BD4-BFFFC014237C}|TareasAPI\\TareasAPI.csproj|c:\\users\\isaac\\source\\repos\\tareasapi\\tareasapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{B8A523B5-B65F-4FA5-8BD4-BFFFC014237C}|TareasAPI\\TareasAPI.csproj|solutionrelative:tareasapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -56,11 +60,24 @@
         },
         {
           "DockedWidth": 283,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "railway.toml",
+              "DocumentMoniker": "C:\\Users\\isaac\\source\\repos\\TareasAPI\\TareasAPI\\railway.toml",
+              "RelativeDocumentMoniker": "TareasAPI\\railway.toml",
+              "ToolTip": "C:\\Users\\isaac\\source\\repos\\TareasAPI\\TareasAPI\\railway.toml",
+              "RelativeToolTip": "TareasAPI\\railway.toml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-16T15:33:53.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "TasksController.cs",
               "DocumentMoniker": "C:\\Users\\isaac\\source\\repos\\TareasAPI\\TareasAPI\\Controllers\\TasksController.cs",
               "RelativeDocumentMoniker": "TareasAPI\\Controllers\\TasksController.cs",
@@ -72,7 +89,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\isaac\\source\\repos\\TareasAPI\\TareasAPI\\Program.cs",
               "RelativeDocumentMoniker": "TareasAPI\\Program.cs",
@@ -84,7 +101,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\isaac\\source\\repos\\TareasAPI\\TareasAPI\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "TareasAPI\\Data\\ApplicationDbContext.cs",
@@ -96,16 +113,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\isaac\\source\\repos\\TareasAPI\\TareasAPI\\appsettings.json",
               "RelativeDocumentMoniker": "TareasAPI\\appsettings.json",
               "ToolTip": "C:\\Users\\isaac\\source\\repos\\TareasAPI\\TareasAPI\\appsettings.json",
               "RelativeToolTip": "TareasAPI\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-11T13:28:52.023Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T13:28:52.023Z"
             },
             {
               "$type": "Bookmark",
