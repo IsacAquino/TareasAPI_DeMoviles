@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\isaac\\source\\repos\\TareasAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B8A523B5-B65F-4FA5-8BD4-BFFFC014237C}|TareasAPI\\TareasAPI.csproj|c:\\users\\isaac\\source\\repos\\tareasapi\\tareasapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8A523B5-B65F-4FA5-8BD4-BFFFC014237C}|TareasAPI\\TareasAPI.csproj|solutionrelative:tareasapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B8A523B5-B65F-4FA5-8BD4-BFFFC014237C}|TareasAPI\\TareasAPI.csproj|c:\\users\\isaac\\source\\repos\\tareasapi\\tareasapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{B8A523B5-B65F-4FA5-8BD4-BFFFC014237C}|TareasAPI\\TareasAPI.csproj|solutionrelative:tareasapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A523B5-B65F-4FA5-8BD4-BFFFC014237C}|TareasAPI\\TareasAPI.csproj|c:\\users\\isaac\\source\\repos\\tareasapi\\tareasapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8A523B5-B65F-4FA5-8BD4-BFFFC014237C}|TareasAPI\\TareasAPI.csproj|solutionrelative:tareasapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B8A523B5-B65F-4FA5-8BD4-BFFFC014237C}|TareasAPI\\TareasAPI.csproj|c:\\users\\isaac\\source\\repos\\tareasapi\\tareasapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -56,7 +56,7 @@
         },
         {
           "DockedWidth": 283,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
@@ -84,20 +84,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\isaac\\source\\repos\\TareasAPI\\TareasAPI\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "TareasAPI\\Data\\ApplicationDbContext.cs",
               "ToolTip": "C:\\Users\\isaac\\source\\repos\\TareasAPI\\TareasAPI\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "TareasAPI\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA0AAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAqwBIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-11T13:32:54.48Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\isaac\\source\\repos\\TareasAPI\\TareasAPI\\appsettings.json",
               "RelativeDocumentMoniker": "TareasAPI\\appsettings.json",
@@ -105,7 +105,8 @@
               "RelativeToolTip": "TareasAPI\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-11T13:28:52.023Z"
+              "WhenOpened": "2025-02-11T13:28:52.023Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
